@@ -1,6 +1,6 @@
 name: Account and Key Generator
-
 on:
+ # trigger update
  # schedule: #if need schedule 
  #   - cron: "0 */2 * * *"
   workflow_dispatch:
